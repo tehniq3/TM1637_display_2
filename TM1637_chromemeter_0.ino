@@ -1,5 +1,5 @@
 /*
- * used https://github.com/avishorp/TM1637 librarry
+ * used https://github.com/avishorp/TM1637 library
  * chrometer by Nicu FLORICA (niq_ro)
  * v.0 - initial version (minutes : seconds)
 */
